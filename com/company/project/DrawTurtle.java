@@ -1,4 +1,4 @@
-package com.company;
+package com.company.project;
 
 import java.awt.*;
 import java.awt.event.KeyAdapter;
